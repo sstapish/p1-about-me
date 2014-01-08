@@ -2,7 +2,7 @@ body {
 background: teal;
 font-family: ariel;
 }
-
+/*Navigation*/
 a {
 	font-size: 24px;
 	color: white;
@@ -10,14 +10,20 @@ a {
 img {
 	width: 300px;
 }
+/*Containers*/
 
 #leftcol {
+	float: left;
 	background: purple;
+	width: 500px;
 
 }
 #rightcol { 
 background: blue;
+float: left;
+width: 500px;
 }
+
 
 .round {
 	border-radius: 30px;
