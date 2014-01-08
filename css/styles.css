@@ -3,6 +3,10 @@ background: teal;
 font-family: ariel;
 }
 
+a {
+	font-size: 24px;
+	color: white;
+}
 img {
 	width: 300px;
 }
