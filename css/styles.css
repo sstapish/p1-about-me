@@ -6,3 +6,19 @@ font-family: ariel;
 img {
 	width: 300px;
 }
+
+#leftcol {
+	background: purple;
+
+}
+#rightcol { 
+background: blue;
+}
+
+.round {
+	border-radius: 30px;
+}
+
+.shadow {
+	box-shadow: 10px 10px
+}
